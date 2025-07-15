@@ -8,3 +8,4 @@ After the scan completed, I reviewed the results to see which ports were open an
 Identifying potential vulnerabilities
 Understanding what services are exposed on the network
 Taking action to secure unnecessary or risky open ports
+link-https://www.linkedin.com/posts/rishikesh-yadav-621709291_intern-oasisinfobyte-lpu-activity-7340814814937608193-MLhb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbDJDkBqbLkXm7XBUcxIi4xHnHn24OJQYo
